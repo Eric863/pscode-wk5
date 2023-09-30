@@ -1,0 +1,27 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+input of number1
+input ofnumber2
+Add number1 + number2
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+number1 divided 2
+if new number has remainder its odd
+if new number has no remainder its even
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+a) results of number1
+b) average (number1 + number 2 divided by 2)
+c)Minimum (number1) maximun (number3)
+d) number 4
+
+-- END --
